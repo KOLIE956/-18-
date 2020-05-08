@@ -91,3 +91,18 @@
 		System.out.println("sumOfCubes([1, 5, 9]) -> " + sumOfCubes(new int[]{ 1, 5, 9}));
 		System.out.println("abcmath(5, 2, 1) -> " + abcmath(5, 2, 1));
 	}
+	
+	//
+	
+	
+	Успешно
+remainder(1,3) -> 1
+triArea(4,5) -> 10.0
+animals(2, 3, 5) -> 36
+profitableGamble(0.2, 50, 9) -> true
+operation(24, 15, 9) -> added
+ctoa('A') -> 65
+addUpTo(10) -> 55
+nextEdge(8, 10) -> 17
+sumOfCubes([1, 5, 9]) -> 855
+adcmath(5, 2, 1) -> true
